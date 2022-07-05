@@ -2,7 +2,7 @@ export default function Button() {
     
   return (
     <div className="top-btn">
-        <a href="mailto:arinecyril1@gmail.com">
+        <a href="mailto:arinzecyril123@gmail.com">
           <button className="email-btn fa-regular fa-envelope" >  
             <span className="mgn-lft">Email</span>
           </button>

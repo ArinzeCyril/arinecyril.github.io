@@ -9,8 +9,8 @@ function Top() {
         <img className="profile-logo" src={ProfileLogo} alt="profile logo" />
         <h1>Arinze Cyril</h1>
         <h3>FrontEnd Developer</h3>
-        <a href="www.w.com">
-          <button className="fa-solid fa-browser"> 
+        <a href="https://arinzecyril.github.io/page/">
+          <button className="goto"> 
             Go to my Website
           </button>
         </a>
