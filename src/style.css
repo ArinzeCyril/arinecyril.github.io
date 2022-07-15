@@ -42,7 +42,7 @@ body {
     right: .3rem;
     width: 5rem;
     border-radius: 10rem;
-    animation: profileLogo 4s ease 1.5s 1;
+    animation: profileLogo 4s ease 1s 1;
 }
 
 .top h1 {
@@ -123,7 +123,7 @@ main p {
 }
 
 #hello {
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 600;
     letter-spacing: .15rem;
 }
