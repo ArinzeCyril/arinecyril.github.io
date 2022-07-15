@@ -122,6 +122,12 @@ main p {
     line-height: 1.2rem;
 }
 
+#hello {
+    font-size: 1.2rem;
+    font-weight: 600;
+    letter-spacing: .15rem;
+}
+
 footer {
     position: relative;
     top: .5rem;

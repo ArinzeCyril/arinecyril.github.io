@@ -3,8 +3,8 @@ export default function Main() {
     <main>
         <section>
             <h2>About Me</h2>
-            <p>Hello! I am a Frontend Developer and I enjoy 
-              creating things that lives on the internet. I am particularly 
+            <p><span id="hello">Hello!</span> I am a Frontend Developer and I enjoy 
+              creating things that live on the internet. I am particularly 
               interested in building high performing web pages.
           </p>
           <p>
@@ -19,9 +19,9 @@ export default function Main() {
         </section>
 
         <section>
-            <h2>Intersts</h2>
-            <p>Good Music, Tech & Coding, Digital Marketing, Animation, 
-              Computer Troubleshooting, Torex, Entrepreneurship, Travel Geek.
+            <h2>My Intersts</h2>
+            <p>Traveling, Good Music, Tech & Coding, Readig & Learning New Things, 
+              Computer Troubleshooting, Animation, Entrepreneurship, Forex and  Digital Marketing.
             </p>
         </section>
     </main>
