@@ -3,24 +3,25 @@ export default function Main() {
     <main>
         <section>
             <h2>About</h2>
-            <p>I am a 
-              front end developer with a good knowledge of HTML/HTML5, 
-              CSS/CSS3, Javascript, React & Redux, Responsive design, 
-              Git & Github, command line, NPM, Restfull Api design, 
-              Security, Production and Deployment. I am particularly 
-              interested in making things simple and automating dailly 
-              tasks. I try to keep up with security and best practices and 
-              I am looking forward to becoming a full stack developer soon 
-              as I am currently perfecting my skills with HTTP, JSON,
-              Node.js, Express.js, SQL and PostgressSQL.
-            </p>
+            <p>Hello! I am a Frontend Developer and I enjoy 
+              creating things that lives on the internet. I am particularly 
+              interested in building high performing web pages.
+          </p>
+          <p>
+            I create responsive websites that are fast, easy to use and built with best
+            practices. Currently, the main area of my expertise is frontend development,
+            though I do a little bit of backend and database.
+        </p>
+          <p> My interest in web development started back in 2016 and Since then, 
+              I have become much better at it and been able to complete a number of
+              projects, work with a team of developers.
+          </p>
         </section>
 
         <section>
             <h2>Intersts</h2>
             <p>Good music, tech & coding, digital marketing, animation, 
-              computer troubleshooting, internet fanatic, 
-              forex, entrepreneur, travel geek.
+              computer troubleshooting, forex, entrepreneur, travel geek.
             </p>
         </section>
     </main>
